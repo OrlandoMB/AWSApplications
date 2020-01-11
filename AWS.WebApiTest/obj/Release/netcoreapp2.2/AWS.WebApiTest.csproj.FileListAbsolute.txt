@@ -1,0 +1,16 @@
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\AWS.WebApiTest.deps.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\AWS.WebApiTest.runtimeconfig.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\AWS.WebApiTest.runtimeconfig.dev.json
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\AWS.WebApiTest.dll
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\bin\Release\netcoreapp2.2\AWS.WebApiTest.pdb
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.csprojAssemblyReference.cache
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.RazorAssemblyInfo.cache
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.RazorAssemblyInfo.cs
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.AssemblyInfoInputs.cache
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.AssemblyInfo.cs
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.dll
+C:\Users\OrlandoMorales\source\repos\AWSApplications\AWS.WebApiTest\obj\Release\netcoreapp2.2\AWS.WebApiTest.pdb
