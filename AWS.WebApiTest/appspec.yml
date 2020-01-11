@@ -1,0 +1,10 @@
+﻿version: 0.0
+os: linux
+files:
+  - source: /index.html
+    destination: /var/www/html/
+hooks:
+  BeforeInstall:
+    - location: scripts/configure_server
+      timeout: 600
+      runas: root
