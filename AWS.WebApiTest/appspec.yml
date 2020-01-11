@@ -1,9 +1,10 @@
-﻿version: 0.2
-phases:
-  build:
-    commands:
-      - dotnet test ./src/HelloTests/HelloTests.csproj
-      - dotnet publish -c release -o ./build_output ./src/HelloWorldWebCore/HelloWorldWebCore.csproj
-artifacts:
-  files:
-    - src/HelloWorldWebCore/build_output/*
+﻿version: 0.0
+os: linux
+files:
+  - source: /index.html
+    destination: /var/www/html/
+hooks:
+  BeforeInstall:
+    - location: scripts/configure_server
+      timeout: 600
+      runas: root
