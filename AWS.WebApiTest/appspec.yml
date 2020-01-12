@@ -5,6 +5,6 @@ files:
     destination: /var/www/html/
 hooks:
   BeforeInstall:
-    - location: scripts/configure_server
+    - location: scripts/configure_server.sh
       timeout: 1800
       runas: root
