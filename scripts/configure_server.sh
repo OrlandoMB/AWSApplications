@@ -6,7 +6,7 @@
 
 echo VALIDATE DOT NET CORE IS INSTALLED
 
-if dotnet --version >2.2.204 ;then
+if dotnet --version >2.2.402 ;then
     echo DOTNET CORE IS INSTALLED
 else
     echo INSTALL DOT NET CORE 
