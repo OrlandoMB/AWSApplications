@@ -1,0 +1,15 @@
+﻿version: 0.0
+phases:
+  pre_build:
+    commands:
+      - echo Restore started on `date`
+      - dotnet restore AWS.WebApiTest/AWS.WebApiTest.csproj
+  build:
+    commands:
+      - echo Build started on `date`
+      - dotnet publish -c release -o ./publish_output AWS.WebApiTest.csproj
+artifacts:
+  files:
+    - AWS.WebApiTest//publish_output/**/*
+    - scripts/**/*
+    - appspec.yml

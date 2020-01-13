@@ -7,4 +7,3 @@ hooks:
   BeforeInstall:
     - location: scripts/configure_server.sh
       timeout: 600
-      runas: root

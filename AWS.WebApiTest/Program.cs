@@ -17,8 +17,17 @@ namespace AWS.WebApiTest
             CreateWebHostBuilder(args).Build().Run();
         }
 
+        // DEFAULT CONFIGURATION 
+        //public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
+        //    WebHost.CreateDefaultBuilder(args)
+        //        .UseStartup<Startup>();
+
+        // KESTREL CONFIGURATION
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            .UseKestrel()
+            .UseContentRoot(Directory.GetCurrentDirectory())
+            .UseUrls("http://*:5000")
+            .UseStartup<Startup>();
     }
 }
